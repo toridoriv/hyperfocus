@@ -14,8 +14,6 @@
     "shippingmethods",
     "xcatentry"
   ],
-  "deno.importMap": "./imports.json",
-  "deno.config": "./tsconfig.json",
   "deno.codeLens.implementations": true,
   "deno.codeLens.references": true,
   "deno.codeLens.referencesAllFunctions": true,

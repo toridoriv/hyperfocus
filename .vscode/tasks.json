@@ -7,8 +7,6 @@
       "args": [
         "--allow-all",
         "--unstable",
-        "--import-map=./imports.json",
-        "--config=./tsconfig.json",
         "${file}"
       ],
       "problemMatcher": [
@@ -22,8 +20,6 @@
       "args": [
         "--allow-all",
         "--unstable",
-        "--import-map=./imports.json",
-        "--config=./tsconfig.json",
         "${file}"
       ],
       "problemMatcher": [
