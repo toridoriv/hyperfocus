@@ -2,6 +2,9 @@
   "[javascript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
   "[typescript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
