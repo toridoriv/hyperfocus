@@ -1,2 +1,6 @@
 # 📌 Environment Variables
 .env*
+!.env.example
+
+# 📌 Temporal files
+tmp
