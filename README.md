@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Hyperfocus is my personal blog, written in Typescript, using Deno and Oak.
+> Hyperfocus is my personal blog, powered by Hugo.
 
 ### 🏠 [Homepage](https://hyperfocus.deno.dev)
 
@@ -21,27 +21,22 @@
 ## Usage
 
 ```sh
-denon start
-```
-
-## Run tests
-
-```sh
-denon test
+hugo server
 ```
 
 ## Author
 
 👤 **Victoria Rodríguez**
 
-* Website: https://hyperfocus.deno.dev
-* Twitter: [@toridoriv](https://twitter.com/toridoriv)
-* Github: [@toridoriv](https://github.com/toridoriv)
-* LinkedIn: [@toridoriv](https://linkedin.com/in/toridoriv)
+- Website: https://hyperfocus.deno.dev
+- Twitter: [@toridoriv](https://twitter.com/toridoriv)
+- Github: [@toridoriv](https://github.com/toridoriv)
+- LinkedIn: [@toridoriv](https://linkedin.com/in/toridoriv)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/toridoriv/hyperfocus/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check
+[issues page](https://github.com/toridoriv/hyperfocus/issues).
 
 ## Show your support
 
@@ -49,8 +44,11 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [Victoria Rodríguez](https://github.com/toridoriv).<br />
-This project is [GPL--3.0](https://github.com/toridoriv/hyperfocus/blob/main/LICENSE) licensed.
+Copyright © 2021 [Victoria Rodríguez](https://github.com/toridoriv).<br /> This
+project is [GPL--3.0](https://github.com/toridoriv/hyperfocus/blob/main/LICENSE)
+licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+---
+
+_This README was generated with ❤️ by
+[readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
