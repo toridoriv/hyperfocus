@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{- partial "head.html" . -}}
+  <body>
+    <div class="page-wrapper with-sidebar with-navbar with-navbar-fixed-bottom">
+      {{- partial "navbar.html" . -}}
+      {{- partial "sidebar.html" . -}}
+      <div class="content-wrapper">
+        <div class="content" id="content">
+          {{- block "main" . }}{{- end }}
+        </div>
+      </div>
+      {{- partial "footer.html" . -}}
+    </div>
+    <script src="js/main.js" type="module"></script>
+  </body>
+</html>

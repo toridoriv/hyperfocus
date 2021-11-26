@@ -1,0 +1,20 @@
+@import url("/css/vendor/halfmoon-variables.css");
+
+h1, h2, h3, h4, h5, h6, .sidebar .sidebar-brand, .sidebar .sidebar-title {
+  font-family: var(--font-titles);
+  font-variant: all-petite-caps;
+  letter-spacing: 0.1rem;
+}
+
+.sidebar .sidebar-brand {
+  font-size: 2.5rem;
+}
+
+.sidebar .sidebar-title {
+  font-size: 2rem;
+}
+
+.sidebar .sidebar-link {
+  font-family: var(--font-monospace);
+  font-size: var(--code-font-size);
+}

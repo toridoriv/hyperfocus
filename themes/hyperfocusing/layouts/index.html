@@ -1,0 +1,6 @@
+{{ define "main" }}
+  {{ with .Site.GetPage "home" }}
+    {{ .Title }}
+    {{ .Content }}
+  {{ end }}
+{{ end }}

@@ -1,0 +1,23 @@
+<nav class="navbar justify-content-between">
+  <!-- Navbar content (with toggle sidebar button) -->
+  <div class="navbar-content">
+    <button class="btn btn-action" type="button" onclick="toggleSidebar()">
+      <i class="fa fa-bars" aria-hidden="true"></i>
+      <span class="sr-only">Toggle sidebar</span> <!-- sr-only = show only on screen readers -->
+    </button>
+  </div>
+  <!-- Navbar brand -->
+  <a href="/" class="navbar-brand">
+    <span class="sidebar-icon">
+      <i class="fa fa-terminal" aria-hidden="true"></i>
+    </span>
+    {{ .Site.Title }}
+  </a>
+  <div class="navbar-content">
+    <!-- Toggle dark mode -->
+    <button class="btn btn-primary sidebar-icon" type="button" onclick="toggleDarkMode()">
+      <i class="fa fa-circle-half-stroke"></i>
+      <span class="sr-only">Toggle dark mode</span>
+    </button>
+  </div>
+</nav>

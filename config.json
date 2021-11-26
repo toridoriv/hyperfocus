@@ -1,0 +1,21 @@
+{
+  "baseURL": "http://example.org/",
+  "languageCode": "en-us",
+  "title": "Hyperfocus",
+  "theme": "hyperfocusing",
+  "markup": {
+    "highlight": {
+      "anchorLineNos": true,
+      "codeFences": true,
+      "guessSyntax": false,
+      "hl_Lines": "",
+      "lineAnchors": "",
+      "lineNos": true,
+      "lineNumbersInTable": true,
+      "lineNoStart": 1,
+      "noClasses": true,
+      "style": "dracula",
+      "tabWidth": 2
+    }
+  }
+}
