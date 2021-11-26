@@ -3,4 +3,7 @@
 !.env.example
 
 # 📌 Temporal files
-tmp
+.tmp
+
+# 📌 Automatically created file, more info here: https://discourse.gohugo.io/t/what-is-the-hugo-build-lock-file/35417/4
+.hugo_build.lock
