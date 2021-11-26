@@ -1,4 +1,4 @@
-@import url("/css/vendor/halfmoon-variables.css");
+@import url("./vendor/halfmoon-variables.css");
 
 h1, h2, h3, h4, h5, h6, .sidebar .sidebar-brand, .sidebar .sidebar-title {
   font-family: var(--font-titles);
